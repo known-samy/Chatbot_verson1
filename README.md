@@ -229,7 +229,7 @@ def function_name(session, query):
 }
 ```
 *If authentication is required only then `auth` method is needed.The `data` and `params` defined in pi.json file acts as defult values and all key value pair defined in template file overrides the default value.`value_getter` consistes of list of keys in order using which info from json will be collected.*
-
+<!-- 
 ### In Template file
 ```
 [ APIName:MethodName,Key1:value1 (,Key*:value*) ]
@@ -288,3 +288,4 @@ you can have any number of key value pair and all key value pair will override d
 
 ![Chatbot AI flow Diagram](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/ChatBot%20AI.png)
 
+ -->
