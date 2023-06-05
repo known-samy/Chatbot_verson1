@@ -3,7 +3,7 @@
 ![Upload Python Package](https://github.com/ahmadfaizalbh/Chatbot/workflows/Upload%20Python%20Package/badge.svg)
 [![CodeQL](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml) -->
 
-Group Project
+# Group Project
 1.Shivam Dwivedi
 
 # ChatBotAI
