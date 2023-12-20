@@ -4,13 +4,11 @@
 [![CodeQL](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml) -->
 
 # Group Project
-1.Shivam Dwivedi
+1.Rishabh Raghav
 
-2.Shivang Singh 
+2.Mohit kaushik
 
-3.Sakshi Singh
-
-4.Beauti Karan
+3.Himanshu Raghav
 
 # ChatBotAI
 Python chatbot AI that helps in creating a python based chatbot with
